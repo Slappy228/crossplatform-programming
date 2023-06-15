@@ -1,0 +1,21 @@
+INSERT INTO customers VALUES (default, 'William', 'Robinson', '3805 Little Dale Trail', 'Awakening', '8654758511');
+INSERT INTO customers VALUES (default, 'Natalie', 'King', '1165 Thunder Round', 'Three Way', '3044897017');
+INSERT INTO customers VALUES (default, 'Mary', 'Jones', '6687 Rocky Downs', 'Mayday', '5136788395');
+INSERT INTO customers VALUES (default, 'Donna', 'Davis', '4671 Velvet Quail Street', 'Old Agency', '8024509732');
+INSERT INTO customers VALUES (default, 'Mike', 'Miller', '2514 Clear Rabbit Thicket', 'Deposit', '3617755758');
+INSERT INTO customers VALUES (default, 'Rebecca', 'Richardson', '9720 Stony Dale', 'Bothersome', '6154306836');
+INSERT INTO customers VALUES (default, 'Sebastian', 'Davies', '8065 Easy Lagoon Wynd', 'Fender', '9365282175');
+INSERT INTO customers VALUES (default, 'Sean', 'Green', '3009 Foggy Quay', 'Sweden', '3074670158');
+INSERT INTO customers VALUES (default, 'Lee', 'Knight', '4471 Emerald Forest Boulevard', 'Sanatorium', '6626450205');
+INSERT INTO customers VALUES (default, 'Gordon', 'Moore', '9967 Pleasant Hickory Moor', 'Bullhead', '8023486977');
+
+INSERT INTO orders VALUES ( default, 5, '3805 Little Dale Trail', 'Awakening', '8654758511');
+INSERT INTO orders VALUES ( default, 2, '1165 Thunder Round', 'Three Way', '3044897017');
+INSERT INTO orders VALUES ( default, 1, '6687 Rocky Downs', 'Mayday', '5136788395');
+INSERT INTO orders VALUES ( default, 1, '4671 Velvet Quail Street', 'Old Agency', '8024509732');
+INSERT INTO orders VALUES ( default, 9, '2514 Clear Rabbit Thicket', 'Deposit', '3617755758');
+INSERT INTO orders VALUES ( default, 4, '9720 Stony Dale', 'Bothersome', '6154306836');
+INSERT INTO orders VALUES ( default, 3, '8065 Easy Lagoon Wynd', 'Fender', '9365282175');
+INSERT INTO orders VALUES ( default, 8, '3009 Foggy Quay', 'Sweden', '3074670158');
+INSERT INTO orders VALUES ( default, 5, '4471 Emerald Forest Boulevard', 'Sanatorium', '6626450205');
+INSERT INTO orders VALUES ( default, 7, '9967 Pleasant Hickory Moor', 'Bullhead', '8023486977');
